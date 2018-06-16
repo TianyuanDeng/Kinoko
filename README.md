@@ -65,7 +65,7 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
-bolded text
+*bolded* **text**
 
 
 
