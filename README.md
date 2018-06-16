@@ -25,3 +25,5 @@ This is a regular paragraph.
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+A block quote.
+> This line is part of the quote.
