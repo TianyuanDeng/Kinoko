@@ -45,11 +45,11 @@ A bulleted list and unordered list
 A table.
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
+| Name          | Age           | Grade |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1800 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Aaron         | 18            |      A|
+| col           | 21            |     B |
+| zebra         | 21            |    C  |
 
 The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
