@@ -21,4 +21,7 @@ A code block
     </tr>
 </table>
 
-This is another regular paragraph.
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
