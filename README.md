@@ -45,7 +45,7 @@ A bulleted list and unordered list
 A table.
 Colons can be used to align columns.
 
-| Name          | Age           | Grade |
+| Name     | Age           | Grade |
 | ------------- |:-------------:| -----:|
 | Aaron         | 18            |      A|
 | col           | 21            |     B |
